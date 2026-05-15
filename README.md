@@ -97,9 +97,12 @@ plt.show()
 
 # Output Waveform
 PSK:
+```
 <img width="609" height="409" alt="image" src="https://github.com/user-attachments/assets/d297f091-f4e1-4eaa-aa01-c64b803b2a43" />
+``
 QPSK :
+```
 <img width="640" height="403" alt="image" src="https://github.com/user-attachments/assets/f60395c2-0668-46b4-b799-6e07ad4233b9" />
-
+```
 # Result :
 Thus PSK and QPSK were performed and the waveform is verified using Google Colab.
