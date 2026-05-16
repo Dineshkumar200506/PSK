@@ -1,6 +1,4 @@
-# PSK AND QPSK
-# NAME : NABISHA A
-# REG NO : 212223060177
+
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required :
